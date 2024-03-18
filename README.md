@@ -9,10 +9,10 @@
   Certificates I’ve earned
 </p>
 <div display="flex" align="center">
-  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/CSS-certificate.png?raw=true" width="24.5%">
-  <img src ="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/HTML-certificate.png?raw=true" width="24.5%">
-  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/JS-certificate.png?raw=true" width="24.5%">
-  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/Python-Certificate.png?raw=true" width="24.5%">
+  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/CSS-certificate.png?raw=true" width="24%">
+  <img src ="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/HTML-certificate.png?raw=true" width="24%">
+  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/JS-certificate.png?raw=true" width="24%">
+  <img src="https://github.com/VulpesLag0pus/Group-Project-Vulpes/blob/main/Vulpes/Python-Certificate.png?raw=true" width="24%">
 </div>
 <br>
 <p align="center">
