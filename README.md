@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1>
   Vulpes
 </h1>
 <paragraaf>
