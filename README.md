@@ -21,4 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulpesLag0pus&theme=tokyonight" width="400" height="200" alt="Top Programming Languages">
 </div>
-
+<br>
+<p align="center">
+  Here are some more skills I’ve picked up
+</p>
