@@ -25,3 +25,7 @@
 <p align="center">
   Here are some more skills I’ve picked up
 </p>
+<div display="flex" align="center" width="40%">
+  <img src="https://github.com/VulpesLag0pus/Images-readme-file/blob/main/terminal.png?raw=true" align="left" width="24%">
+  <img src="https://media.jvt.me/36fd7d2a48.png" align="right" width="24%">
+</div>
