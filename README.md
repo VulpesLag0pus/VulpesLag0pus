@@ -38,12 +38,17 @@
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif">
 </div>
 <h3 align="center">
-  Zerda‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  ‎ ‎  ‎ ‎ &‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ Macrotis
+  Zerda‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  ‎ ‎  ‎ ‎ &‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ <a>Macrotis</a>
 </h3>
 <hr>
-<div align="center" display="flex">
-  <p>
+  <p width="40%" align="left">
     Here are two of my favourite projects. The first one is a weather app build using openWeather API. I learned a lot form this project, like working with Figma and API’s.
   </p>
-  
-</div>
+    <div align="right" width="40%">
+    <a href="https://github.com/VulpesLag0pus/JavaScript-Final-Project" width="40%" align="right">Group Project Vulpes</a>
+  </div>
+  <p width="40%" align="left">
+    The second project is still in progress,<br> it is a collaboration between me and <br>two friends to build a website with<br> personal website’s of all 3 of us on there.     </p>
+  <div align="right" width="40%">
+    <a href="https://github.com/VulpesLag0pus/Group-Project-Vulpes" width="40%" align="right">Group Project Vulpes</a>
+  </div>
