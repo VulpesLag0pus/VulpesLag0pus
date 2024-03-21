@@ -37,3 +37,13 @@
   <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif">
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif">
 </div>
+<h3 align="center">
+  Zerda‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  ‎ ‎  ‎ ‎ &‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ Macrotis
+</h3>
+<hr>
+<div align="center" display="flex">
+  <p>
+    Here are two of my favourite projects. The first one is a weather app build using openWeather API. I learned a lot form this project, like working with Figma and API’s.
+  </p>
+  
+</div>
