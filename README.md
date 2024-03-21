@@ -29,3 +29,11 @@
   <img src="https://github.com/VulpesLag0pus/Images-readme-file/blob/main/terminal.png?raw=true"height="200">
   <img src="https://github.com/VulpesLag0pus/Images-readme-file/blob/main/Screenshot%202024-03-20%20at%2022.41.59.png?raw=true"height="200"">
 </div>
+<hr>
+<p align="center">
+  I have been participating in #30NitesOfCode since the beginning of the year, thank you to Codédex for helping me stay motivated!
+</p>
+<div align="center" display="flex">
+  <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif">
+  <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif">
+</div>
