@@ -34,8 +34,8 @@
   I have been participating in #30NitesOfCode since the beginning of the year, thank you to Codédex for helping me stay motivated!
 </p>
 <div align="center" display="flex">
-  <img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif">
-  <img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif">
+  <a href="https://www.codedex.io/@Vulpes/30-nites-of-code"><img src="https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif"></a>
+  <a href="https://www.codedex.io/@Vulpes/30-nites-of-code?pet=season-one"><img src="https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif"></a>
 </div>
 <h3 align="center">
   Zerda‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  ‎ ‎  ‎ ‎ &‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ <a>Macrotis</a>
