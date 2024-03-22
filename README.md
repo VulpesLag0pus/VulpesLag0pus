@@ -61,4 +61,10 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=pxxmde9a2f3dsazlk47r523dc">
   </div>
   <hr>
+  <div align="center">
+      <a href="https://www.codedex.io/@Vulpes"><img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" width="50"></a>
+  <a href="https://www.instagram.com/ties.vd.n/?igsh=cThhdXQ5bmxxa3Vk"><img src="https://img.freepik.com/vrije-vector/instagramachtergrond-in-gradientkleuren_23-2147823814.jpg" width="50"></a>
+  <a href="https://www.linkedin.com/in/ties-van-den-nieuwenhof-6895b72ab/"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/rdp6fcqdcvqqcqn3jz72" width="50"></a>
+  <a href="https://twitter.com/vulpes392245837"><img src="https://img.freepik.com/vrije-vector/nieuw-2023-twitter-logo-x-pictogramontwerp_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1707696000&semt=ais" width="50"></a>
+  </div>
   
