@@ -45,7 +45,7 @@
     Here are two of my favourite projects.<br> The first one is a weather app <br> build using openWeather API. I learned a<br> lot form this project, like working with<br> Figma and API’s.
   </p>
   <div align="center" width="40%">
-    <a href="https://github.com/VulpesLag0pus/JavaScript-Final-Project" width="40%" align="right">Group Project Vulpes</a>
+    <a href="https://github.com/VulpesLag0pus/JavaScript-Final-Project" width="40%" align="right">JavaScript Final Project</a>
   </div>
   <br>
   <p width="40%" align="center">
@@ -53,3 +53,12 @@
   <div align="center" width="40%">
     <a href="https://github.com/VulpesLag0pus/Group-Project-Vulpes" width="40%" align="right">Group Project Vulpes</a>
   </div>
+  <hr>
+  <p align="center">
+        Okay, now that the serious things are mentioned. Let me tell you about<br> some of the things I love doing. I love playing field hockey and running. <br> Of course I also love everything tech. Lastly I really enjoy listening to music, <br> some of my favourite artist are NF, Imagine dragons, Blacklite district<br> and Blackbear.
+  </p>
+  <div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pxxmde9a2f3dsazlk47r523dc">
+  </div>
+  <hr>
+  
