@@ -41,14 +41,15 @@
   Zerda‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  ‎ ‎  ‎ ‎ &‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ <a>Macrotis</a>
 </h3>
 <hr>
-  <p width="40%" align="left">
-    Here are two of my favourite projects. The first one is a weather app build using openWeather API. I learned a lot form this project, like working with Figma and API’s.
+  <p width="40%" align="center">
+    Here are two of my favourite projects.<br> The first one is a weather app <br> build using openWeather API. I learned a<br> lot form this project, like working with<br> Figma and API’s.
   </p>
-    <div align="right" width="40%">
+  <div align="center" width="40%">
     <a href="https://github.com/VulpesLag0pus/JavaScript-Final-Project" width="40%" align="right">Group Project Vulpes</a>
   </div>
-  <p width="40%" align="left">
+  <br>
+  <p width="40%" align="center">
     The second project is still in progress,<br> it is a collaboration between me and <br>two friends to build a website with<br> personal website’s of all 3 of us on there.     </p>
-  <div align="right" width="40%">
+  <div align="center" width="40%">
     <a href="https://github.com/VulpesLag0pus/Group-Project-Vulpes" width="40%" align="right">Group Project Vulpes</a>
   </div>
